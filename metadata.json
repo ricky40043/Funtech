@@ -1,0 +1,5 @@
+{
+  "name": "Funtech 報名系統",
+  "description": "提供使用者選擇日期與時段，並填寫報名資料，資料將同步至 Google Sheets。",
+  "requestFramePermissions": []
+}
